@@ -2,34 +2,36 @@
 
 ### 📱 Short Description
 
-A simple **Hello World** Android application, demonstrating the basics of Android app development.
+A basic Android application project setup, often named **"Hello World"**, used to confirm the developer environment is working.
 
 ---
 
 ### 🧩 Concepts Covered
 
-* **TextView** usage
-* **Button click event** handling
-* **Simple layout structure** (XML)
+* **Project Creation** (selecting Empty Views Activity)
+* **Activity** (representing a single screen with UI)
+* **Layout Structure** (using XML, e.g., Constraint Layout)
+* **Source Code** structure (Java/Kotlin files)
 
 ---
 
 ### 🎯 Learning / Discovery Points
 
-* Set up an **Android Studio project** and ran the first app
-* Linked **UI components** (XML) with **Java code**
-* Understood how `findViewById()` works for event interaction
+* Successfully downloading and setting up **Android Studio**.
+* Creating a new project, defining the package name, and selecting the Java language.
+* Running the first application on an **Android Virtual Device (Emulator)**.
+* Identifying the two primary files in a new project: the Java code file and the XML layout file.
 
 ---
 
 ### ⚙️ App Features / Usage
 
-* Tap the **button** → displays a “Hello” message on the screen
+* Launches and displays a basic screen (typically showing a default message like "Hello World").
 
 ---
 
 ### 📝 Note
 
-This is a **very basic course app**, intended to introduce Android fundamentals.
+This is a **fundamental setup project**, intended to verify the environment and introduce basic file structure before diving into complex logic.
 
 ---
